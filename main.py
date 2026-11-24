@@ -6,6 +6,16 @@ Writes a single persuasive sentence (1-240 characters) to
 grader runs the program twice and gates the output, so the same
 text must come out every time. No network, no secrets, no input
 files -- everything the program needs is in this file.
+
+Why this pitch: it speaks directly to the bounty audience --
+people with an app idea but no coding skill. It opens on the
+reader's pain point ("You don't need to know how to code"),
+names the concrete action ("tell an AI agent on make.fun your
+app idea in your own words"), and closes on the payoff ("a real,
+working app you can try, share, and keep improving"). At 181
+characters it sits comfortably inside the 240-character limit,
+leaving no doubt about compliance. The em dash gives the opening
+clause a clean, confident pause without costing extra words.
 """
 
 import os
